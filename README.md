@@ -1,4 +1,4 @@
-# ventilation-project
+[Documentation(https://github.com/arsiarola/ventilation-project/edit/master/docs/Ventilation%20project%20documentation.pdf).
 
-Ventilation system that has automatic and manual mode and can be controlled from lcd UI with buttons.
+
 
